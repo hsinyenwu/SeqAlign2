@@ -6,7 +6,7 @@ Please run the Shiny app through your default web browser (e.g. Chrome, Safari..
 This shiny app requires the following four libraries: 
 shiny, Biostrings, msa, dplyr  
 
-You could use this tool to find if your CRISPR/Cas9 transgenic lines contain targeted mutations, or use it to check if your plasmids contain the sequence you want.  
+#### You could use this tool to find if your CRISPR/Cas9 transgenic lines contain targeted mutations, or use it to check if your plasmids contain the sequence you want.  
 
 For CRISPR/Cas9 transgenic lines, we suggest designing your sequencing primers to have the same directionality as the target sequence. The reason is due to the biallelic nature of Cas9 mutants. CRISPR/Cas9-generated mutations are often small deletions or insertions (INDELs). Two different INDELs (or one wild-type and one INDEL for the two alleles) for the two alleles would lead to confusion for Sanger sequencing. By using sequencing primers with the same directionality as the target sequence, you can see the INDEL events happened exactly within the target sequences region. By using sequencing primers with the opposite directionality as the target sequence, you would not be sure where the INDEL events occur.
 
