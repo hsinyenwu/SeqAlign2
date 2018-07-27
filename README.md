@@ -37,8 +37,9 @@ You can download both the PDF and CSV files.
 For target sequence, use GTTATCGCGTCTTGTCGAAC.  
 For example DNA sequences, find them in the test.zip folder.  
 WIth the default setting, the output should be identical to the SeqInfo.pdf and SeqInfo.R files in this repository. 
+Part of the output looks like:
 ![alt text](https://github.com/hsinyenwu/SeqAlign2/blob/master/partial_output.png "output") 
-
+You can see the target sequence and the mutations in the middle of the plot.
 
 ## References:
 Bodenhofer U, Bonatesta E, Horejs-Kainrath C and Hochreiter S (2015). “msa: an R package for multiple sequence alignment.” Bioinformatics, 31(24), pp. 3997–3999.
@@ -51,7 +52,7 @@ Mac OS X El Capitan
 
 ## Trick:
 This one-file shiny app is easier to run. You do not need to set directory and can just execute the code directly. However, it seems that you can only adjust the browser setting using a two-file style shiny app. Once you run any two-file style Shiny app, you can see a drop down manual next to a green arrow. Select "Run External". That choice should make your shiny app run in your default web browser from now on.  
-![alt text](https://github.com/hsinyenwu/SeqAlign2/blob/master/external.png "Logo Title Text 1")  
+![alt text](https://github.com/hsinyenwu/SeqAlign2/blob/master/external.png =300x200)  
 If you are running shiny app the first time, you could check out the Coursera course "Developing Data Products". 
 
 Have fun!
