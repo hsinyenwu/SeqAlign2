@@ -49,7 +49,7 @@ Mac OS X El Capitan
 
 ## Trick:
 This one-file shiny app is easier to run. You do not need to set directory and can just execute the code directly. However, it seems that you can only adjust the browser setting using a two-file style shiny app. Once you run any two-file style Shiny app, you can see a drop down manual next to a green arrow. Select "Run External". That choice should make your shiny app run in your default web browser from now on.  
-![alt text](http://shiny.rstudio.com/tutorial/lesson1/images/launch-options.png "Logo Title Text 1")  
+![alt text](https://github.com/hsinyenwu/SeqAlign2/blob/master/external.png "Logo Title Text 1")  
 If you are running shiny app the first time, you could check out the Coursera course "Developing Data Products". 
 
 Have fun!
