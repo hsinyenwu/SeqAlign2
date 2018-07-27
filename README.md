@@ -40,6 +40,7 @@ WIth the default setting, the output should be identical to the SeqInfo.pdf and 
 Part of the output looks like:
 ![image](https://github.com/hsinyenwu/SeqAlign2/blob/master/partial_output.png "output") 
 You can see the target sequence and the mutations in the middle of the plot.
+The test 3 sequence got an extra G. The test 4 missed an A. The test 5 could be a larger deletion/insertion after the target sequence.
 
 ## References:
 Bodenhofer U, Bonatesta E, Horejs-Kainrath C and Hochreiter S (2015). “msa: an R package for multiple sequence alignment.” Bioinformatics, 31(24), pp. 3997–3999.
