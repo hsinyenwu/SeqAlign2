@@ -57,3 +57,6 @@ This one-file shiny app is easier to run. You do not need to set directory and c
 If you are running shiny app the first time, you could check out the Coursera course "Developing Data Products". 
 
 Have fun!
+
+## Shinyapps.io version
+https://larrywu.shinyapps.io/ShinyAlignTest/
