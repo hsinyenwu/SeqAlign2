@@ -58,5 +58,5 @@ If you are running shiny app the first time, you could check out the Coursera co
 
 Have fun!
 
-## Shinyapps.io version
+## Shinyapps.io version:
 https://larrywu.shinyapps.io/ShinyAlignTest/
