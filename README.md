@@ -1,5 +1,5 @@
 ## SeqAlign2
-### Shiny app for multiple sequence alignment using the msa package from Bioconductor.
+### Shiny app for multiple sequence alignment against a target sequence
 
 Please run the Shiny app through your default web browser (e.g. Chrome, Safari..., see the Trick below if your RStudio does not run this app in web browser). Please do not use the RStudio pop up window/viewer. It might not carry out the app properly.
 
